@@ -1,6 +1,6 @@
 import React from 'react'
-import {Alert} from 'antd';
+import {MyForm} from './MyForm';
 
 export default function Hello() {
-  return <Alert message={'Hello'}/>
+  return <MyForm />
 };
