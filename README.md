@@ -1,5 +1,7 @@
-TypeScript React AntDesign Form Demo
+TypeScript React AntDesign useForm Demo
 =================================
+
+可以通过`useForm` hook得到form对象，调用其方法
 
 ```
 npm install
